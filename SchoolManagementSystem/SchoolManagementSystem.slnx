@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Authentication/Authentication.csproj" />
+  <Project Path="Masterdata/Masterdata.csproj" Id="074b8dde-9be5-4503-93f9-0f0851eba2ab" />
+</Solution>

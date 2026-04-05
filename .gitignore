@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.gitignore
+/SchoolManagementSystem/.vs
+/SchoolManagementSystem/Authentication/bin/Debug/net10.0
+/SchoolManagementSystem/Authentication/obj
+/SchoolManagementSystem/Masterdata/bin/Debug/net10.0
+/SchoolManagementSystem/Masterdata/obj
